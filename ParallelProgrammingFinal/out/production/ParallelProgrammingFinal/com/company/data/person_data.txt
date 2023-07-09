@@ -1,0 +1,10 @@
+UserID: f6c4179d-6c16-4c39-8751-8505647e077e
+Username: Hamit_Mızrak
+Password: 12345
+Email: hamitmizrak@ozal.edu.tr
+************************
+UserID: c9605c44-6947-497d-9b39-0c55a70f0b05
+Username: Somer_Hussein
+Password: 12345
+Email: somer@gmail.com
+************************
